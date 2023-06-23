@@ -5,7 +5,7 @@ messages:
   reload: '<white>Перезагружено! Не забудьте переустановить свой ресурспак.</white>'
   none-args: '<white>В команде обязательны аргументы.'
   invalid-args: '<white>Неверные аргументы'
-  not-online: '<white>Игрок {Player} не в сети!</white>'
+  not-online: '<white>Игрок {Player} не в сети!'
   no-console: '<white>Эта команда может быть использована только игроком!</white>'
   cooldown: '<white>Предпросмотр до сих пор активен!</white>'
   generate: '<white>Ресурспак генерируется...</white>'
